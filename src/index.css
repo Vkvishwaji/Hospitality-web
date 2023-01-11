@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Mulish&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif;
+} 
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Mulish', sans-serif; 
+} 
+.navbar{
+  background-color: rgb(61, 57, 57) !important;
+}
+.navbar a:hover{
+  padding: 3;
+  color: black;
+}
+.right-menu:hover .dr-menu{
+  display: block;
+}
+.wp-container-1{ 
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.img-f{
+  height: calc(100vh - 85px);
+  height: 300px;
+  width: 1518px;
+}
+.btn-get{
+  box-shadow: none;
+    border: 0;
+     text-decoration: none;
+    font-size: .875rem;
+    letter-spacing: .05em;
+    line-height: 1;
+    padding: 1em 1.5em;
+    text-shadow: none;
+    text-transform: uppercase;
+    transition: .2s;
+}
+.service-bot{
+  position: relative;
+    left: 450px;
+}
+
+.hotel-car-bus{
+  padding: 40px;
+}
+.meet-b{
+  top:10%  ;
+  text-align: -webkit-center; 
+}
+.twothousend{
+  position: relative;top: 188px; left: 45px;
+}
+.twentythree{
+  position: relative;left: 327px;top: 109px;
+}
+.ninetysix{
+  position: relative;left: 111px;
+}
+.hundred{
+  position: relative;bottom: 84px;right: 71px;
+}
+.why-love{
+  padding: 35px;margin-left: -50px;
+}
+.img-oxford{
+  background-position: 50% 50%;width: 550px; height: 350px;padding-left: 50px;
+}
+.about{
+  letter-spacing: .1em;line-height: 1.25;margin: 0 0 0.75em;padding: 0.75em 0 0;text-transform: uppercase;
+}
+.cont-r{
+  padding: 25px;
+}
+.ajourney{
+  letter-spacing: .1em;line-height: 1.25; margin: 0 0 0.75em;padding: 0.75em 0 0;text-transform: uppercase;color:#800080;
+}
+.block-qute{
+  box-sizing: border-box;word-break: break-word;word-wrap: break-word;
+}
+ 
+
+
+
+.get-touch{
+  letter-spacing: .1em;line-height: 1.25;margin: 0 0 0.75em;padding: 0.75em 0 0;text-transform: uppercase;color: #ccc;
+}
+.SEND-US{
+  letter-spacing: .1em;line-height: 1.25;margin: 0 0 0.75em;padding: 0.75em 0 0;text-transform: uppercase;color: #ccc;
+}
+.royal{
+  position: "relative";margin:" 0 auto";
+}
+.royal-1{
+  position: absolute;text-align: center;top: 960px;left: 533px;color: white;
+}
+.royal-2{
+  position: absolute;text-align: center;top: 1001px;left: 539px;color: white;
+}
+.mice{
+  position: relative;margin: 0 auto;
+}
+.mice-1{
+  position: absolute;text-align: center;bottom: 218px;left: 353px;color: white;
+}
+.mice-2{
+  position: absolute;text-align: center;bottom: 177px;left: 511px;color: white;
+}
+.trvel-d{
+  position: relative;margin: 0 auto;
+}
+.travel-d1{
+  position: absolute;text-align: center;bottom: 240px;left: 533px;color: white;
+}
+.travel-d2{
+  position: absolute;text-align: center;bottom: 196px;left: 556px;color: white;
+}
+
+
+
+
+
+
+.foot-e{
+  height: 60px;
+  text-align: center;
+}
+.foot-p{
+  color:white;
+  padding-top: 10px;
+}
